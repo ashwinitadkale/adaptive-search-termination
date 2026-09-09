@@ -1,0 +1,15 @@
+# Week 1 — toy environment + PPO sanity check
+gymnasium>=0.29
+stable-baselines3>=2.3
+numpy
+matplotlib
+
+# Later weeks (retrieval + LLM + serving) — install as you reach them
+# faiss-cpu
+# sentence-transformers
+# groq
+# fastapi
+# uvicorn
+# streamlit
+# pandas
+# plotly
